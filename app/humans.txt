@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Web Developer: Mohamed Ailam
+  Contact:  eyelum@gmail.com
+  Twitter:  @m_ailam
+  From: Maldives
+
+# THANKS
+
+  <name>
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3, JS
